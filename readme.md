@@ -1,2 +1,3 @@
 >this is a test  
->git has a mutable index called stage
+>git has a mutable index called stage  
+>something new
